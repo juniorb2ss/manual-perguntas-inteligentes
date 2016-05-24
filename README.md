@@ -200,3 +200,5 @@ Essa pergunta merece como resposta: "Certo. Precisa colocar pra arrotar e trocar
 Esta pessoa, por outro lado, parece que vale a pena responder. Ela exibiu inteligência para resolver problemas ao invés de ficar esperando que uma solução caísse do céu.
 
 Na última questão, note a sutil mas importante diferença entre "Me dê uma resposta" e "por favor me ajude a descobrir que diagnósticos adicionais posso tentar para descobrir o problema".
+
+![No error](398160_460061767382168_1795857092_n.jpg)
