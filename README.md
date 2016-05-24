@@ -3,6 +3,8 @@ Alguns conselhos para uma boa comunicação em fóruns, blogs, chats ou etc. Ant
 
 Este texto é uma adaptação de: http://www.fabrica10.com.br/projetos/comofazerperguntasinteligentes.html
 
+- [Introdução](#introducao)
+
 ### Introdução
 No mundo dos fórums, o tipo de respostas que você obtém para suas questões técnicas depende bastante da forma que você faz as perguntas bem como da dificuldade de desenvolver a resposta. Este guia irá ensinar você como fazer perguntas de forma a obter uma resposta satisfatória.
 A primeira coisa a entender é que os experientes gostam de problemas e questões boas e entusiasmadas. Se não fosse assim, não estaríamos aqui. Se você nos der uma questão interessante seremos gratos; boas questões são um estímulo e um presente. Boas perguntas nos ajudam a desenvolver nosso entendimento, e geralmente revelam problemas que poderíamos não ter percebido ou pensado de outra forma. Entre nós, "Boa pergunta!" é um forte e sincero cumprimento.
