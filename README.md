@@ -4,6 +4,11 @@ Alguns conselhos para uma boa comunicação em fóruns, blogs, chats ou etc. Ant
 Este texto é uma adaptação de: http://www.fabrica10.com.br/projetos/comofazerperguntasinteligentes.html
 
 - [Introdução](#introducao)
+- [Antes de perguntar](#antes-de-perguntar]
+- [Quando perguntar](#quando-perguntar]
+- [Como interpretar as respostas)[#Como-interpretar as-respostas]
+- [Perguntas indesejáveis](#perguntas-indesejáveis)
+- [Boas e Más Perguntas](#Boas-e-mas-perguntas)
 
 ### Introdução
 No mundo dos fórums, o tipo de respostas que você obtém para suas questões técnicas depende bastante da forma que você faz as perguntas bem como da dificuldade de desenvolver a resposta. Este guia irá ensinar você como fazer perguntas de forma a obter uma resposta satisfatória.
